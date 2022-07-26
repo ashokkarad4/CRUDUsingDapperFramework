@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDUsingDapperFramework", "CRUDUsingDapperFramework\CRUDUsingDapperFramework.csproj", "{8F24430E-FA6D-4261-B623-858F05D6FDCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F24430E-FA6D-4261-B623-858F05D6FDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F24430E-FA6D-4261-B623-858F05D6FDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F24430E-FA6D-4261-B623-858F05D6FDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F24430E-FA6D-4261-B623-858F05D6FDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4032AAC-65C2-4D70-8FC9-1080EA4F0976}
+	EndGlobalSection
+EndGlobal
